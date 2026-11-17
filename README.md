@@ -31,18 +31,19 @@ My academic background equips me with structured systems thinking and acute empa
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Edunesa](https://github.com/ahmadneor1/portofolio-ahmad)** | Hybrid learning platform awarded national startup funding under Indonesia's **P2MW** grant and selected as a national delegate at **KMI Expo 2024**. | Python, Node.js, Docker, EdTech |
+| **[Edunesa](https://github.com/ahmadneor1/portofolio-ahmad)** | Hybrid learning platform awarded national startup funding under Indonesia's **P2MW** grant and selected as a national delegate at **KMI Expo 2024**[cite: 1]. | Python, Node.js, Docker, EdTech |
+| **CV Builder** | Professional interactive CV and resume generator tool designed to streamline structured profile creation and export workflows. | Full-Stack Web, UI/UX |
 | **GetFetch** | High-concurrency media extraction and transcoding web app featuring asynchronous background task queues and automated storage cleanup. | Python, Flask, Celery, Redis, Playwright |
-| **AHM Subtitles** | Automated speech-to-text localization pipeline generating time-synced `.srt` subtitles across multiple languages using AI models. | Python, OpenAI Whisper, Gemini API, FFmpeg |
-| **Algorithmic Trading Bot** | Low-latency automated trading execution engine driven by live WebSocket streams, risk controls, and instant Telegram telemetry alerts. | Python, WebSockets, ccxt, Telegram API |
+| **AHM Subtitles** | Automated speech-to-text localization pipeline generating time-synced `.srt` subtitles across multiple languages using AI models[cite: 1]. | Python, OpenAI Whisper, Gemini API, FFmpeg |
+| **Algorithmic Trading Bot** | Low-latency automated trading execution engine driven by live WebSocket streams, risk controls, and instant Telegram telemetry alerts[cite: 1]. | Python, WebSockets, ccxt, Telegram API |
 
 ---
 
 ### 🏆 Academic Background & Honors
 
-* **Universitas Negeri Surabaya (UNESA)** — Bachelor of Education (B.Ed.) in Educational Management (Final-Year Undergraduate)
-* **National Delegate** — Indonesian Student Entrepreneurship Expo (**KMI Expo 2024**) for *Edunesa*
-* **Grant Recipient** — Student Entrepreneurship Development Program (**P2MW 2024**) by the Ministry of Education, Culture, Research, and Technology of Indonesia
+* **Universitas Negeri Surabaya (UNESA)** — Bachelor of Education (B.Ed.) in Educational Management (Final-Year Undergraduate)[cite: 1]
+* **National Delegate** — Indonesian Student Entrepreneurship Expo (**KMI Expo 2024**) for *Edunesa*[cite: 1]
+* **Grant Recipient** — Student Entrepreneurship Development Program (**P2MW 2024**) by the Ministry of Education, Culture, Research, and Technology of Indonesia[cite: 1]
 
 ---
 
