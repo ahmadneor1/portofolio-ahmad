@@ -50,7 +50,7 @@ My academic background equips me with structured systems thinking and acute empa
 ### 📬 Connect With Me
 
 * **Email:** [ahmadneor1@gmail.com](mailto:ahmadneor1@gmail.com)
-* **LinkedIn:** [Ahmad Neo Rizky](https://www.linkedin.com/in/ahmad-neo-r-4303b7281)
+* **LinkedIn:** [Ahmad Neo Rizky](https://www.linkedin.com/in/ahmad-rizky-4303b7281/)
 * **GitHub:** [@ahmadneor1](https://github.com/ahmadneor1)
 * **Portfolio Website:** [ahmadneor1.github.io](https://ahmadneor1.github.io)
 
